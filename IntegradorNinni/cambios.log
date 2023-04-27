@@ -1,0 +1,58 @@
+[2023-04-09 17:46:08] [ INFO ] [OdontologoService:35] se creo el odontologo: pepe, Checa,, 1235
+[2023-04-09 17:48:02] [ INFO ] [OdontologoService:35] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 17:49:21] [ INFO ] [OdontologoService:24] se encontro el odontologo con id: 1
+[2023-04-09 17:49:39] [ INFO ] [OdontologoService:24] se encontro el odontologo con id: 2
+[2023-04-09 17:50:51] [ INFO ] [OdontologoService:24] se encontro el odontologo con id: 2
+[2023-04-09 17:50:59] [ INFO ] [OdontologoService:24] se encontro el odontologo con id: 3
+[2023-04-09 18:07:23] [ INFO ] [OdontologoService:41] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 18:07:25] [ INFO ] [OdontologoService:41] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 18:08:11] [ INFO ] [OdontologoService:26] se encontro el odontologo con id: 1
+[2023-04-09 18:10:42] [ INFO ] [OdontologoService:43] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 18:10:43] [ INFO ] [OdontologoService:43] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 18:10:58] [ WARN ] [OdontologoService:30] Error. No existe el odontologo con id: 3
+[2023-04-09 18:16:56] [ INFO ] [OdontologoService:45] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 18:16:57] [ INFO ] [OdontologoService:45] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 18:17:02] [ INFO ] [OdontologoService:39] se listaron 2 odontologos
+[2023-04-09 18:19:52] [ INFO ] [OdontologoService:45] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 18:19:53] [ INFO ] [OdontologoService:45] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 18:20:05] [ INFO ] [OdontologoService:39] se listaron 2 odontologos
+[2023-04-09 18:20:16] [ WARN ] [OdontologoService:30] Error. No existe el odontologo con id: 3
+[2023-04-09 18:20:32] [ INFO ] [OdontologoService:57] Error. No se encontro el odontologo con id 3
+[2023-04-09 18:20:41] [ INFO ] [OdontologoService:53] se elimino el odontologo con id: 2
+[2023-04-09 18:53:41] [ INFO ] [OdontologoService:45] se creo el odontologo: javi, checa con matricula: 12345
+[2023-04-09 18:53:46] [ INFO ] [OdontologoService:39] se listaron 1 odontologos
+[2023-04-09 18:53:55] [ INFO ] [OdontologoService:53] se elimino el odontologo con id: 1
+[2023-04-09 19:02:22] [ WARN ] [OdontologoService:30] Error. No existe el odontologo con id: 1
+[2023-04-09 19:02:27] [ INFO ] [OdontologoService:45] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 19:02:31] [ WARN ] [OdontologoService:30] Error. No existe el odontologo con id: 1
+[2023-04-09 19:02:39] [ INFO ] [OdontologoService:26] se encontro el odontologo con id: 2
+[2023-04-09 19:04:06] [ INFO ] [OdontologoService:45] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 19:04:17] [ INFO ] [OdontologoService:26] se encontro el odontologo con id: 1
+[2023-04-09 19:41:45] [ INFO ] [OdontologoService:45] se creo el odontologo: jose, checa con matricula: 12345678
+[2023-04-09 19:41:48] [ INFO ] [OdontologoService:39] se listaron 1 odontologos
+[2023-04-09 19:45:37] [ INFO ] [OdontologoService:45] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 19:45:58] [ INFO ] [OdontologoService:39] se listaron 1 odontologos
+[2023-04-09 19:48:26] [ INFO ] [OdontologoService:45] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 19:48:41] [ INFO ] [OdontologoService:39] se listaron 1 odontologos
+[2023-04-09 19:52:41] [ INFO ] [OdontologoService:45] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 19:52:57] [ INFO ] [OdontologoService:39] se listaron 1 odontologos
+[2023-04-09 19:53:06] [ INFO ] [OdontologoService:26] se encontro el odontologo con id: 1
+[2023-04-09 19:55:38] [ INFO ] [OdontologoService:45] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 19:55:54] [ INFO ] [OdontologoService:39] se listaron 1 odontologos
+[2023-04-09 19:55:59] [ INFO ] [OdontologoService:26] se encontro el odontologo con id: 1
+[2023-04-09 20:05:06] [ INFO ] [OdontologoService:45] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 20:05:22] [ INFO ] [OdontologoService:26] se encontro el odontologo con id: 1
+[2023-04-09 20:06:00] [ INFO ] [OdontologoService:39] se listaron 1 odontologos
+[2023-04-09 20:06:05] [ INFO ] [OdontologoService:26] se encontro el odontologo con id: 1
+[2023-04-09 20:09:09] [ INFO ] [OdontologoService:45] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 20:09:31] [ INFO ] [OdontologoService:39] se listaron 1 odontologos
+[2023-04-09 20:09:35] [ INFO ] [OdontologoService:26] se encontro el odontologo con id: 1
+[2023-04-09 20:19:22] [ INFO ] [OdontologoService:45] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 20:19:31] [ INFO ] [OdontologoService:39] se listaron 1 odontologos
+[2023-04-09 20:19:36] [ INFO ] [OdontologoService:26] se encontro el odontologo con id: 1
+[2023-04-09 20:50:49] [ INFO ] [OdontologoService:45] se creo el odontologo: pepe, Checa, con matricula: 1235
+[2023-04-09 20:51:02] [ INFO ] [OdontologoService:26] se encontro el odontologo con id: 1
+[2023-04-09 20:54:10] [ INFO ] [OdontologoService:39] se listaron 0 odontologos
+[2023-04-09 20:54:13] [ INFO ] [OdontologoService:39] se listaron 0 odontologos
+[2023-04-09 20:54:16] [ INFO ] [OdontologoService:39] se listaron 0 odontologos
+[2023-04-09 20:54:19] [ INFO ] [OdontologoService:39] se listaron 0 odontologos
